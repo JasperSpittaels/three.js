@@ -1,3 +1,3 @@
-import './three.core.js';
-import './three.module.js';
-import './three.webgpu.js';
+import 'three.core.js';
+import 'three.module.js';
+import 'three.webgpu.js';
